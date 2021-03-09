@@ -1,6 +1,4 @@
-# CS302_Week1
-this contains the solution of week 1
-
+# Week 1 :  11 Jan - 15 Jan 2021
 # Problem Statement:
 - Write a pseudocode for a graph search agent. Represent the agent in the form of a flow
 chart. Clearly mention all the implementation details with reasons.
