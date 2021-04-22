@@ -1,4 +1,4 @@
-steps = 100;
+steps = 10000;
 rewards = zeros(steps, 2);
 i = 1;
 totalValue = zeros(steps);
