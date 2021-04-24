@@ -7,11 +7,10 @@ This contains all works and codes of CS302 for 2021
 - Ambesh Kumar (201851019)
 - Arukonda Shiva (201851028)
 - Kamlesh kumar (201851055)
-- Kodavth Prem Kumar (201851060)
+- Kodavath Prem Kumar (201851060)
 
 
-
-# Work:
+# Contribution:
 
 `Week1:11 Jan - 15 Jan 2021` <br>
 	Arukonda Shiva(201851028) and
