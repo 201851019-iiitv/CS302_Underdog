@@ -1,4 +1,4 @@
-# Week 6 :8-12 February, 2021
+# Week 5 :8-12 February, 2021
 # Problem Statement:
 - Consider grades earned in each of the courses as random variables and learn the
 dependencies between courses.
