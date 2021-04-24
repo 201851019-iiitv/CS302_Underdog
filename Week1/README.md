@@ -11,6 +11,3 @@ source/ initial state.
 - Prepare a table indicating the memory and time requirements to solve Puzzle-8 instances
 (depth “d”) using your graph search agent.
 
-
-
- ## done by `Arukonda shiva(201851028)` and `Kodavath Prem Kumar(201851060)`
