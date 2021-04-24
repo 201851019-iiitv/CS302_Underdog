@@ -27,7 +27,7 @@ This contains all works and codes of CS302 for 2021
 	Kamlesh Kumar(201851055)
 	
 ---
-`Week6:15-19 February, 2020 ` <br>
+`Week6:15-19 February, 2021 ` <br>
 	Ajmera Pavan Kumar(201851011) 
 	
 `Week9:22-26 March, 2021` <br>
